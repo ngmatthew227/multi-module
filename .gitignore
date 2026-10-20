@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+*.har
+*.exe
+.vscode/tasks.json
